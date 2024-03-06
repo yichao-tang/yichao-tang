@@ -16,10 +16,10 @@ If you think I meet your requirements, I look forward to hearing from you.
 
 ### 📎 Homepages
 
-Personal Pages: [https://yichao-tang.github.io](https://yichao-tang.github.io) (updated recently🔥)
-Google Scholar: [https://scholar.google.com/citations?user=KTWK22EAAAAJ](https://scholar.google.com/citations?user=KTWK22EAAAAJ)
-DBLP: [https://dblp.org/pid/211/0610.html](https://dblp.org/pid/211/0610.html)
-Orcid: [https://orcid.org/0000-0003-3117-193X](https://orcid.org/0000-0003-3117-193X)
+- Personal Pages: [https://yichao-tang.github.io](https://yichao-tang.github.io) (updated recently🔥)
+- Google Scholar: [https://scholar.google.com/citations?user=KTWK22EAAAAJ](https://scholar.google.com/citations?user=KTWK22EAAAAJ)
+- DBLP: [https://dblp.org/pid/211/0610.html](https://dblp.org/pid/211/0610.html)
+- ORCID: [https://orcid.org/0000-0003-3117-193X](https://orcid.org/0000-0003-3117-193X)
 
 ### 📝 Publications
 
