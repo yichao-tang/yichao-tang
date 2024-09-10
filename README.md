@@ -6,14 +6,6 @@ My research results have been published in several top-tier journals, such as IE
 
 My research interests include robust watermarking, reversible data hiding, and AIGC security. For **academic cooperation**, please feel free to email me at [yichao_tang@foxmail.com](mailto:yichao_tang@foxmail.com)
 
-### 🔥 News
-
-Dear Professor/Doctor/Hiring Manager, 
-
-I am very interested in the academic job opportunities that you offer. I am currently a doctoral candidate who will graduate in summer 2024, I hope to work as a teacher or researcher in a university or research institute, or as a postdoctoral fellow in your team. 
-
-If you think I meet your requirements, I look forward to hearing from you.
-
 ### 📎 Homepages
 
 - Personal Pages: [https://yichao-tang.github.io](https://yichao-tang.github.io) (updated recently🔥)
