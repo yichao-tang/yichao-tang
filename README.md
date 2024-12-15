@@ -40,6 +40,7 @@ My research interests include robust watermarking, reversible data hiding, and A
 - Xuewen Xia*, Ling Gui, Guoliang He, Chengwang Xie, Bo Wei, Ying Xing, Ruifeng Wu, **Yichao Tang**. "A hybrid optimizer based on firefly algorithm and particle swarm optimization algorithm." Journal of computational science, 2018. [**[Link]**](https://www.sciencedirect.com/science/article/abs/pii/S1877750317303538)
 
 ### 🎖 Honors and Awards
+- **Best Paper Award (2nd Prize)** of [2024](https://mp.weixin.qq.com/s/_kUPYg-LzNjEI7waOg2iMw) Computer Academy of Guangdong, 2024
 - **3rd Prize** in the [3rd](https://mp.weixin.qq.com/s/tv1A0Qzd7hvqjLS3iRBjEA) Guangdong-Hong Kong-Macao Post-graduate Paper Competition, 2024
 - **Best Paper Award (2nd Prize)** of [2023](https://mp.weixin.qq.com/s/VNa_IIF-Lo9on_zxSO-UwQ) Computer Academy of Guangdong, 2023
 - **Best Paper Award** at the [4th](https://conf.csig.org.cn/10361.html) CSIG Chinese Conference on Media Forensics and Security, ChinaMFS, 2023
