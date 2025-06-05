@@ -17,7 +17,7 @@ My research interests include robust watermarking, reversible data hiding, and A
 
 #### ⛑ Information Security
 
-- **Yichao Tang**, Chuntao Wang*, Shijun Xiang, Yiu-Ming Cheung. "A Robust Reversible Watermarking Scheme Using Attack-Simulation-Based Adaptive Normalization and Embedding." IEEE Transactions on Information Forensics and Security **(T-IFS)**, 2024. [**[Link]**](https://ieeexplore.ieee.org/document/10458701) [**[Code]**](https://github.com/yichao-tang/STDM-RRW)
+- **Yichao Tang**, Chuntao Wang*, Shijun Xiang, Yiu-Ming Cheung. "A robust reversible watermarking scheme using attack-simulation-based adaptive normalization and embedding." IEEE Transactions on Information Forensics and Security **(T-IFS)**, 2024. [**[Link]**](https://ieeexplore.ieee.org/document/10458701) [**[Code]**](https://github.com/yichao-tang/STDM-RRW)
 
 - **Yichao Tang**, Kangshun Li\*, Chuntao Wang\*, Shan Bian, Qiong Huang. "A two-stage robust reversible watermarking using polar harmonic transform for high robustness and capacity." Information Sciences **(INS)**, 2024. [**[Link]**](https://www.sciencedirect.com/science/article/abs/pii/S0020025523013713) [**[Code]**](https://github.com/yichao-tang/PHT-RRW)
 
