@@ -16,7 +16,7 @@ My research interests include robust watermarking, reversible data hiding, and A
 ### 📝 Publications
 
 #### ⛑ Information Security
-- **Yichao Tang**, Shuai Wang, Ruowei Han, Chuntao Wang\*. "A Novel Robust Reversible Watermarking Scheme Using Fractional-Order Polar Complex Exponential Transform." IEEE Transactions on Multimedia **(T-MM)**, 2025. [**[Link]**](https://ieeexplore.ieee.org/abstract/document/11207540/)
+- **Yichao Tang**\#, Shuai Wang\#, Ruowei Han, Chuntao Wang\*. "A Novel Robust Reversible Watermarking Scheme Using Fractional-Order Polar Complex Exponential Transform." IEEE Transactions on Multimedia **(T-MM)**, 2025. [**[Link]**](https://ieeexplore.ieee.org/abstract/document/11207540/) [**[Code]**](https://github.com/yichao-tang/FrPCET-RRW)
   
 - **Yichao Tang**, Chuntao Wang*, Shijun Xiang, Yiu-Ming Cheung. "A robust reversible watermarking scheme using attack-simulation-based adaptive normalization and embedding." IEEE Transactions on Information Forensics and Security **(T-IFS)**, 2024. [**[Link]**](https://ieeexplore.ieee.org/document/10458701) [**[Code]**](https://github.com/yichao-tang/STDM-RRW)
 
