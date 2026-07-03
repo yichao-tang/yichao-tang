@@ -47,8 +47,8 @@ My research interests include robust watermarking, reversible data hiding, and A
 - Xuewen Xia*, Ling Gui, Guoliang He, Chengwang Xie, Bo Wei, Ying Xing, Ruifeng Wu, **Yichao Tang**. "A hybrid optimizer based on firefly algorithm and particle swarm optimization algorithm." Journal of computational science, 2018. [**[Link]**](https://www.sciencedirect.com/science/article/abs/pii/S1877750317303538)
 
 ### 📜 Projects
-- National Natural Science Foundation of China, Youth Program (Category C), Grant No. 62502093, Research on Image Content-Style Collaborative Watermarking Method for Resisting Style Transfer, 2026-01-01 to 2028-12-31, Ongoing, **Principal Investigator**
-- Shanghai Super Postdoctoral Talent Program, Grant No. 2024075, Research on Robust Reversible Watermarking Algorithms Based on Deep Neural Networks, 2024-09 to 2026-09, Ongoing, **Principal Investigator**
+- **National Natural Science Foundation of China, Youth Program (Category C)**, Grant No. 62502093, Research on Image Content-Style Collaborative Watermarking Method for Resisting Style Transfer, 2026-01-01 to 2028-12-31, Ongoing, **Principal Investigator**
+- **Shanghai Super Postdoctoral Talent Program**, Grant No. 2024075, Research on Robust Reversible Watermarking Algorithms Based on Deep Neural Networks, 2024-09 to 2026-09, Ongoing, **Principal Investigator**
 - National Natural Science Foundation of China, General Program, Grant No. 62572125, Research on Key Theories and Methods of Generative Steganography, 2026-01-01 to 2029-12-31, Ongoing, Participant
 - National Natural Science Foundation of China, General Program, Grant No. 62172165, Construction of Theoretical Model and Design of High-Performance Algorithms for Reversible Robust Watermarking, 2022-01-01 to 2025-12-31, Completed, Participant
 - Guangdong Provincial Basic and Applied Basic Research Foundation, Guangdong Provincial Natural Science Foundation – General Program, Grant No. 2022A1515010325, Research on Construction and Application of Carrier-Lossless Robust Watermarking Theoretical Model, 2022-01 to 2024-12, Completed, Participant
