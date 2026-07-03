@@ -15,7 +15,13 @@ My research interests include robust watermarking, reversible data hiding, and A
 
 ### 📝 Publications
 
-#### ⛑ Information Security
+#### 🛡️ Information Security
+- **Yichao Tang**, Mingyang Li, Xinting Wu, Sheng Li, Zhenxing Qian, Xinpeng Zhang\*. "DNLMark: Dual Noise Layer-Based Robust Watermarking Against Image Editing." IEEE International Conference on Acoustics, Speech and Signal Processing **(ICASSP)**, 2026. [**[Link]**](https://ieeexplore.ieee.org/abstract/document/11464215) [**[Code]**](https://github.com/yichao-tang/DNLMark)
+
+- Zhenliang Gan, Chunya Liu, **Yichao Tang**, Binghao Wang, Shiwen Cui, Weiqiang Wang, Xinpeng Zhang\*. "GenPTW: Latent Image Watermarking for Provenance Tracing and Tamper Localization." Proceedings of the AAAI Conference on Artificial Intelligence **(AAAI)**, 2026. [**[Link]**](https://ojs.aaai.org/index.php/AAAI/article/view/37412) [**[Code]**](https://github.com/yichao-tang/GenPTW)
+
+- Mingyang Li, **Yichao Tang**, Yuliang Xue, Sheng Li, Zhenxing Qian\*, Xinpeng Zhang, Ji He, Hongda Li. "SLMark: Robust Watermarking Against Image Editing via Simulation-Based Noise Layer and Low-Frequency Embedding." International Conference on Cyber Resilience and Endogenous Safety \& Security **(CRESS)**, 2025. [**[Link]**](https://ieeexplore.ieee.org/abstract/document/11452609/)
+
 - **Yichao Tang**\#, Shuai Wang\#, Ruowei Han, Chuntao Wang\*. "A Novel Robust Reversible Watermarking Scheme Using Fractional-Order Polar Complex Exponential Transform." IEEE Transactions on Multimedia **(T-MM)**, 2025. [**[Link]**](https://ieeexplore.ieee.org/abstract/document/11207540/) [**[Code]**](https://github.com/yichao-tang/FrPCET-RRW)
   
 - **Yichao Tang**, Chuntao Wang*, Shijun Xiang, Yiu-Ming Cheung. "A robust reversible watermarking scheme using attack-simulation-based adaptive normalization and embedding." IEEE Transactions on Information Forensics and Security **(T-IFS)**, 2024. [**[Link]**](https://ieeexplore.ieee.org/document/10458701) [**[Code]**](https://github.com/yichao-tang/STDM-RRW)
@@ -40,7 +46,14 @@ My research interests include robust watermarking, reversible data hiding, and A
 
 - Xuewen Xia*, Ling Gui, Guoliang He, Chengwang Xie, Bo Wei, Ying Xing, Ruifeng Wu, **Yichao Tang**. "A hybrid optimizer based on firefly algorithm and particle swarm optimization algorithm." Journal of computational science, 2018. [**[Link]**](https://www.sciencedirect.com/science/article/abs/pii/S1877750317303538)
 
-### 🎖 Honors and Awards
+### 📜 Projects
+- National Natural Science Foundation of China, Youth Program (Category C), Grant No. 62502093, Research on Image Content-Style Collaborative Watermarking Method for Resisting Style Transfer, 2026-01-01 to 2028-12-31, Ongoing, **Principal Investigator**
+- Shanghai Super Postdoctoral Talent Program, Grant No. 2024075, Research on Robust Reversible Watermarking Algorithms Based on Deep Neural Networks, 2024-09 to 2026-09, Ongoing, **Principal Investigator**
+- National Natural Science Foundation of China, General Program, Grant No. 62572125, Research on Key Theories and Methods of Generative Steganography, 2026-01-01 to 2029-12-31, Ongoing, Participant
+- National Natural Science Foundation of China, General Program, Grant No. 62172165, Construction of Theoretical Model and Design of High-Performance Algorithms for Reversible Robust Watermarking, 2022-01-01 to 2025-12-31, Completed, Participant
+- Guangdong Provincial Basic and Applied Basic Research Foundation, Guangdong Provincial Natural Science Foundation – General Program, Grant No. 2022A1515010325, Research on Construction and Application of Carrier-Lossless Robust Watermarking Theoretical Model, 2022-01 to 2024-12, Completed, Participant
+
+### 🏆 Awards
 - **Best Paper Award (2nd Prize)** of [2024](https://mp.weixin.qq.com/s/_kUPYg-LzNjEI7waOg2iMw) and [2023](https://mp.weixin.qq.com/s/VNa_IIF-Lo9on_zxSO-UwQ) Computer Academy of Guangdong, 2024 and 2023
 - **Best Paper Award** at the [4th](https://conf.csig.org.cn/10361.html) CSIG Chinese Conference on Media Forensics and Security, ChinaMFS, 2023
 - **2nd Prize** in the [18th](https://cpipc.acge.org.cn/cw/detail/4/2c90800c7dd545b7017dfe9a610e0e5d) China Post-graduate Mathematical Contest in Modeling, 2021
